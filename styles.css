@@ -1,0 +1,33 @@
+#calculadora{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:33%;
+    margin-right: 33%;
+    padding: 20px;
+    background-color:#f5f5f5 ;
+    border-radius: 20px;
+    width: 320px;
+}
+
+#pantalla{
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #e6e6e6
+
+}
+
+#boton{
+    text-align: center;
+    font-size: 24px;
+    height: 60px;
+    width: 60px;
+}
+
+
+
+
+
